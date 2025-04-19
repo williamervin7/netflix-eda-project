@@ -8,14 +8,11 @@ We analyze data from `netflix_data.csv` to answer key questions about movie genr
 ---
 
 ## 📊 Table of Contents
-- [The Dataset](#the-dataset)
-- [Key Questions Explored](#key-questions-explored)
-- [Visualizations](#visualizations)
-- [Key Findings](#key-findings)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [License](#license)
-
+- [The Dataset](#The-Dataset)
+- [Key Questions Explored](#Key-Questions-Explored)
+- [Visualizations](#Visualizations)
+- [Key Findings](#Key-Findings)
+- [Technologies Used](#Technologies-Used)
 ---
 
 ## 📁 The Dataset
@@ -74,20 +71,6 @@ _All plots generated using Matplotlib._
 - Pandas
 - Matplotlib
 - NumPy
-
----
-
-## ▶️ How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/netflix-1990s-analysis.git
-   cd netflix-1990s-analysis
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pandas matplotlib numpy
-   ```
-3. Run the Jupyter Notebook or Python script.
 
 ---
 
