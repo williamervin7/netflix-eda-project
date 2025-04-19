@@ -62,12 +62,12 @@ _All plots generated using Matplotlib._
 ---
 
 ## 🔍 Key Findings
-- The most common movie duration in the 1990s was **93 minutes**.
-- There were **X short Action movies** released in the decade.
-- The **most frequent genre** was _[fill in from analysis]_.
-- Average duration of Comedy movies was **X.X minutes**.
-- The **United States** led in 1990s movie production on Netflix.
-- The director with the most releases was **[Director Name]**.
+- The most common movie duration in the 1990s was 93 minutes.
+- There were 7 short Action movies** released in the decade.
+- The **most frequent genre** was Action.
+- Average duration of Comedy movies was 110.7 minutes.
+- The United States led in 1990s movie production on Netflix.
+- The director with the most releases was Johnnie To.
 
 ---
 
@@ -90,11 +90,6 @@ _All plots generated using Matplotlib._
    pip install pandas matplotlib numpy
    ```
 3. Run the Jupyter Notebook or Python script.
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
 
 ---
 
