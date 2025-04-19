@@ -1,7 +1,5 @@
 # Netflix 1990s Movie Analysis
 
-<img src="redpopcorn.jpg" alt="Red Popcorn" style="display: block; margin: auto; width: 300px;"/>
-
 ## 🎬 Overview
 This project explores **Netflix's 1990s movie catalog** using exploratory data analysis (EDA). With the rise of streaming, understanding trends from past decades can help production companies spot nostalgic styles and audience preferences.
 
